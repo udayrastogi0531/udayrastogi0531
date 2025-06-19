@@ -1,6 +1,6 @@
 # Uday Prakash Rastogi
 
-![Banner](./Banner.png)
+![Banner](./Banner.jpeg)
 
 ### Welcome to my GitHub profile!
 
