@@ -76,4 +76,10 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 
 If you enjoy my work, consider buying me a coffee!
 
-[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=udayrastogi05&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" width="100%">](https://buymeacoffee.com/udayrastogi05)
+[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=udayrastogi05&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" width="250" />](https://buymeacoffee.com/udayrastogi05)
+
+🔗 [https://buymeacoffee.com/udayrastogi05](https://buymeacoffee.com/udayrastogi05)  
+🔗 [https://coff.ee/udayrastogi05](https://coff.ee/udayrastogi05)
+
+
+
