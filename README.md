@@ -39,7 +39,7 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=radical" alt="Aryan's GitHub stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=radical" alt="Uday GitHub stats" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=radical" alt="Top Languages" width="100%">
 
