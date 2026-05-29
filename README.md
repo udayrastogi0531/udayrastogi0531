@@ -1,105 +1,134 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Banner.jpeg" alt="Banner" width="100%" style="border-radius: 12px;" />
+  <img src="./Banner.png" alt="Uday Prakash Rastogi Banner" width="100%" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Uday+Prakash+Rastogi;Web+Developer+|+Programmer+|+DSA+Enthusiast;Turning+Ideas+into+Interactive+Experiences" alt="Typing animation" />
-</p>
+<h1 align="center">Hi 👋, I'm Uday Prakash Rastogi</h1>
 
----
-
-## 🚀 About Me
-
-I'm **Uday Prakash Rastogi**, a passionate **Web Developer** and **Programmer** dedicated to crafting user-friendly web applications and learning powerful backend logic.  
-🔧 Bug Fixer | 💻 Full Stack Explorer | 🎯 Always Learning | Problem Solver | Code Optimisation
-🌐 E-commerce Manager • Portfolio Builder • Code Optimizer
-
----
-
-## 💼 Skills & Technologies
+<h3 align="center">
+🚀 AI Engineer | Gen AI & Agentic AI Specialist | MERN Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,django,html,css,js,ts,tailwind,react,next,angular,firebase,github&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Building+Intelligent+AI+Systems;Developing+Autonomous+AI+Agents;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;MERN+Stack+Developer;Transforming+Ideas+Into+AI-Powered+Solutions" />
 </p>
 
 ---
 
-## 📚 Current Projects
+## 🧠 About Me
 
-- 🔥 Building a modern **Skill Swap** with full frontend/backend stack.
-- 🎮 Developing an interactive **Hangman Game** with Trie-based hints.
-- 📱 Polishing **To-Do DApp** with smart contract logic.
+```yaml
+Name: Uday Prakash Rastogi
+Role: AI Engineer & MERN Stack Developer
+Location: India 🇮🇳
+
+Focus Areas:
+  - Generative AI
+  - Agentic AI
+  - LLM Applications
+  - AI Agents
+  - RAG Systems
+  - Intelligent Automation
+  - Full Stack Development
+
+Currently Building:
+  - AI Agents
+  - Multi-Agent Systems
+  - RAG Applications
+  - MERN Stack Projects
+```
+
+### 🚀 Mission
+
+Building intelligent AI solutions and autonomous agents that can reason, automate workflows, and solve real-world problems through innovation and technology.
 
 ---
 
-## 🌈 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/udayrastogi0531/Super-Car-Main-Website-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=Super-Car-Main-Website-&theme=radical" />
-  </a>
-  <a href="https://github.com/udayrastogi0531/Hangman-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=Hangman-Game&theme=radical" />
-  </a>
-  <a href="https://github.com/udayrastogi0531/To-Do_List_DApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=To-Do_List_DApp&theme=radical" />
-  </a>
-</div>
-
----
-
-## 📈 GitHub Stats
+## ⚡ AI & Agentic AI Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=tokyonight" width="47%" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,mongodb,git,github,docker,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=udayrastogi0531&theme=tokyonight&hide_border=true" width="95%" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udayrastogi0531&theme=algolia&margin-w=8&margin-h=8" />
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A84FF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blueviolet?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge)
 
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="mailto:udayprakashrastogi2005@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/udayrastogi05"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
-<p align="center">
-  <a href="https://swapskill.vercel.app/">
-    <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="./Uday_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 🙌 Support My Work
+## 🔥 Current Focus
 
-If you find my work helpful or inspiring, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/udayrastogi05)
+- 🤖 Building Autonomous AI Agents
+- 🧠 Multi-Agent AI Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ LLM Application Development
+- 🌐 AI-Powered MERN Applications
+- 🚀 Production-Ready AI Solutions
 
 ---
 
-## 🔥 Visitor Count
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Agent Platform | Autonomous task-solving agents |
+| 📚 RAG Assistant | Context-aware AI chatbot |
+| 🎮 Smart Hangman | AI-enhanced game experience |
+| 🌐 Skill Swap Platform | Full-stack MERN application |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udayrastogi0531&style=for-the-badge&color=brightgreen" alt="Visitor Count" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=udayrastogi0531&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center"><i>✨ Made with passion by Uday Prakash Rastogi ✨</i></p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=udayrastogi0531&theme=algolia&row=2&column=4"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:udayprakashrastogi2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://swapskill.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building the Future with Intelligent Agents & Gen AI
+
+</p>
