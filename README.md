@@ -1,126 +1,122 @@
-<!-- ========================================= -->
-<!--                HERO SECTION                -->
-<!-- ========================================= -->
-
 <div align="center">
 
 <img src="./Banner.png" width="100%" alt="Banner"/>
 
-<br>
+# ⚡ UDAY PRAKASH RASTOGI
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Uday+Prakash+Rastogi;AI+Engineer+%7C+GenAI+%7C+Agentic+AI;LLMs+%7C+RAG+%7C+AI+Agents;MERN+Stack+Developer;Building+The+Future+With+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1000&lines=AI+Engineer;GenAI+%7C+Agentic+AI+Specialist;Building+Autonomous+AI+Agents;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;MERN+Stack+Developer;Turning+Ideas+Into+Intelligent+Products" />
 
-<br>
-
+<p>
 <img src="https://komarev.com/ghpvc/?username=udayrastogi0531&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/udayrastogi0531?style=for-the-badge&color=blueviolet"/>
-
 <img src="https://img.shields.io/github/stars/udayrastogi0531?style=for-the-badge&color=purple"/>
+</p>
 
 </div>
 
 ---
 
-# 🧠 Digital DNA
+# 🧠 AI ENGINEER PROFILE
 
 ```yaml
 name: Uday Prakash Rastogi
 
-role:
-  - AI Engineer
-  - Agentic AI Developer
-  - MERN Stack Developer
+title: AI Engineer
 
 specialization:
   - Generative AI
   - Agentic AI
-  - AI Agents
   - LLM Engineering
-  - Retrieval Augmented Generation (RAG)
-  - Intelligent Automation
-  - Full Stack Development
+  - RAG Systems
+  - AI Agents
+  - MERN Stack
 
 currently_building:
-  - AI Agent Systems
-  - Multi-Agent Workflows
-  - RAG Applications
+  - Multi Agent Systems
+  - Production AI Applications
+  - Autonomous AI Agents
   - Full Stack AI Products
 
-mission:
-  "Build intelligent systems that think,
-   reason and solve real-world problems."
+goal:
+  Build intelligent systems that reason,
+  learn and solve real-world problems.
 ```
 
 ---
 
-# ⚡ AI Command Center
+# ⚡ TECH RADAR
 
 <div align="center">
 
-### 🤖 AI & GenAI
+## 🤖 AI & LLM Stack
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 💻 Development Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,html,css" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚙️ Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel" />
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-blue?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-darkblue?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 AI Ecosystem
-
 <div align="center">
 
-| AI | Agentic AI | Databases | Cloud |
-|----|-----------|------------|--------|
-| OpenAI | CrewAI | MongoDB | Vercel |
-| LangChain | AutoGen | Pinecone | Railway |
-| LlamaIndex | LangGraph | ChromaDB | Render |
-| Hugging Face | Multi-Agent Systems | Vector DBs | Cloud APIs |
+## 🌐 MERN STACK
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
 </div>
 
 ---
 
-# 🔥 Current Missions
+<div align="center">
 
-### 🤖 Mission Alpha
-Building Autonomous AI Agents
+## 💻 DEVELOPMENT
 
-### 🧠 Mission Beta
-Developing Multi-Agent Systems
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,git,github,docker,postman,vscode,vercel" />
 
-### 📚 Mission Gamma
-Advanced RAG Pipelines
-
-### ⚡ Mission Delta
-AI Powered MERN Applications
-
-### 🚀 Mission Omega
-Production Ready AI Solutions
+</div>
 
 ---
 
-# 📊 Real-Time GitHub Analytics
+# 🚀 LIVE SYSTEM STATUS
+
+```text
+┌──────────────────────────────────────┐
+│ AI ENGINEER DASHBOARD                │
+├──────────────────────────────────────┤
+│ GenAI              ██████████ 100%   │
+│ Agentic AI         ██████████ 100%   │
+│ AI Agents          ██████████ 100%   │
+│ RAG Systems        █████████░ 95%    │
+│ MERN Stack         █████████░ 95%    │
+│ Learning Mode      ██████████ ∞      │
+└──────────────────────────────────────┘
+```
+
+---
+
+# 🔥 CURRENT MISSIONS
+
+### 🤖 Building Autonomous AI Agents
+
+### 🧠 Developing Multi-Agent Systems
+
+### 📚 Creating Production RAG Pipelines
+
+### ⚡ Developing AI Powered MERN Applications
+
+### 🚀 Shipping Real World AI Products
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -140,7 +136,7 @@ Production Ready AI Solutions
 
 ---
 
-# 📈 Activity Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -150,17 +146,7 @@ Production Ready AI Solutions
 
 ---
 
-# 🌌 Contribution Universe
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udayrastogi0531&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 Achievement Vault
+# 🏆 ACHIEVEMENT VAULT
 
 <div align="center">
 
@@ -170,37 +156,17 @@ Production Ready AI Solutions
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/udayrastogi0531/SkillSwap">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=SkillSwap&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/udayrastogi0531/Hangman-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=Hangman-Game&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/udayrastogi0531/To-Do_List_DApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=udayrastogi0531&repo=To-Do_List_DApp&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-# 🌍 Connect With Me
+# 🌍 CONNECT WITH ME
 
 <div align="center">
 
@@ -224,19 +190,11 @@ Production Ready AI Solutions
 
 ---
 
-# 💡 Quote Of The Day
-
 <div align="center">
 
-### 🧠 "Artificial Intelligence is not the future. It's the present being built today."
+# 🚀 BUILDING THE FUTURE WITH AI AGENTS
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Building Intelligent Systems • Creating AI Agents • Solving Real Problems
+### "Transforming Ideas Into Intelligent Systems"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=150&section=footer"/>
 
