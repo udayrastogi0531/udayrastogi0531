@@ -4,7 +4,7 @@
 
 # ⚡ UDAY PRAKASH RASTOGI
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1000&lines=AI+Engineer;GenAI+%7C+Agentic+AI+Specialist;Building+Autonomous+AI+Agents;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;MERN+Stack+Developer;Turning+Ideas+Into+Intelligent+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1000&lines=AI+Engineer;GenAI+%7C+Agentic+AI+Specialist;Building+Autonomous+AI+Agents;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Full+Stack+MERN+%2B+FastAPI+Developer;Turning+Ideas+Into+Intelligent+Products" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=udayrastogi0531&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
@@ -12,123 +12,138 @@
 <img src="https://img.shields.io/github/stars/udayrastogi0531?style=for-the-badge&color=purple"/>
 </p>
 
+<a href="https://swapskill.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8A2BE2?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/"><img src="https://img.shields.io/badge/💼_Hire_Me-LinkedIn-0077B5?style=for-the-badge"/></a>
+
 </div>
 
 ---
 
-# 🧠 AI ENGINEER PROFILE
+## 🧠 About Me
 
 ```yaml
 name: Uday Prakash Rastogi
-
 title: AI Engineer
 
 specialization:
-  - Generative AI
-  - Agentic AI
-  - LLM Engineering
-  - RAG Systems
-  - AI Agents
-  - MERN Stack
+  - Generative AI & Agentic AI
+  - LLM Engineering (LangChain / LangGraph)
+  - Retrieval-Augmented Generation (RAG)
+  - Autonomous AI Agents & Multi-Agent Systems
+  - Full Stack Development (MERN + FastAPI)
 
 currently_building:
-  - Multi Agent Systems
-  - Production AI Applications
-  - Autonomous AI Agents
+  - Production-grade AI Agents
+  - Multi-Agent Orchestration Systems
   - Full Stack AI Products
 
-goal:
+core_strength:
+  - Data Structures & Algorithms (C++)
+  - System design thinking + AI-first product mindset
+
+goal: >
   Build intelligent systems that reason,
-  learn and solve real-world problems.
+  learn, and solve real-world problems.
 ```
 
 ---
 
-# ⚡ TECH RADAR
+## ⚡ Tech Radar
 
 <div align="center">
 
-## 🤖 AI & LLM Stack
+### 🤖 AI / GenAI / Agentic AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A2540?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-<br><br>
+### 🌐 Full Stack — MERN + FastAPI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-blue?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-darkblue?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,fastapi,python" />
+
+### 💻 Core Development
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,tailwind,nextjs,mysql,git,github,docker,postman,vscode,vercel" />
 
 </div>
 
 ---
+
+## 🗺️ GenAI & Agentic AI Learning Roadmap
 
 <div align="center">
 
-## 🌐 MERN STACK
-
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+| # | Topic | Covers | Status |
+|---|-------|--------|:------:|
+| 1 | GenAI Fundamentals | GenAI vs Agentic AI, roadmap | ✅ |
+| 2 | LangChain Basics | Components, Models, Prompts | ✅ |
+| 3 | Structured Output | Structured output, parsers | ✅ |
+| 4 | LangChain Architecture | Chains, Runnables | ✅ |
+| 5 | RAG Fundamentals | Loaders, Splitters, Vector Stores, Retrievers, RAG | ✅ |
+| 6 | RAG Project | YouTube Chatbot | ✅ |
+| 7 | Tools | Tools + Tool Calling | ✅ |
+| 8 | AI Agents | End-to-end Agent in LangChain | ✅ |
+| 9 | Local LLM | Ollama Masterclass | ✅ |
+| 10 | LangGraph Fundamentals | Core concepts | ✅ |
+| 11 | Workflows | Sequential, Parallel, Conditional, Iterative | ✅ |
+| 12 | Chatbots | LangGraph Chatbot | ✅ |
+| 13 | Memory / State | Persistence + Time Travel | ✅ |
+| 14 | UI | LangGraph + Streamlit | ✅ |
+| 15 | Streaming | LangGraph Streaming | ✅ |
+| 16 | Resume RAG / Chat | Resume Chat Project | ✅ |
+| 17 | Database | LangGraph + SQLite | ✅ |
+| 18 | Observability | LangSmith | ✅ |
+| 19 | Advanced LangGraph | In Progress | 🔄 |
 
 </div>
 
----
-
-<div align="center">
-
-## 💻 DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,git,github,docker,postman,vscode,vercel" />
-
-</div>
+> 💡 Alongside GenAI, I'm strengthening my foundations in **C++ & DSA**, and building full stack apps with **MERN, FastAPI, and SQL**.
 
 ---
 
-# 🚀 LIVE SYSTEM STATUS
+## 🚀 Live System Status
 
 ```text
 ┌──────────────────────────────────────┐
 │ AI ENGINEER DASHBOARD                │
 ├──────────────────────────────────────┤
 │ GenAI              ██████████ 100%   │
-│ Agentic AI         ██████████ 100%   │
-│ AI Agents          ██████████ 100%   │
-│ RAG Systems        █████████░ 95%    │
-│ MERN Stack         █████████░ 95%    │
-│ Learning Mode      ██████████ ∞      │
+│ Agentic AI          █████████░ 95%   │
+│ RAG Systems         ██████████ 100%  │
+│ LangGraph            █████████░ 90%  │
+│ MERN Stack           █████████░ 90%  │
+│ FastAPI               ████████░ 80%  │
+│ DSA (C++)              ████████░ 80% │
+│ Learning Mode          ██████████ ∞  │
 └──────────────────────────────────────┘
 ```
 
 ---
 
-# 🔥 CURRENT MISSIONS
+## 🔥 Current Missions
 
-### 🤖 Building Autonomous AI Agents
-
-### 🧠 Developing Multi-Agent Systems
-
-### 📚 Creating Production RAG Pipelines
-
-### ⚡ Developing AI Powered MERN Applications
-
-### 🚀 Shipping Real World AI Products
+- 🤖 Building Autonomous AI Agents
+- 🧠 Mastering Advanced LangGraph (multi-agent orchestration)
+- 📚 Creating Production-grade RAG Pipelines
+- ⚡ Shipping AI-powered Full Stack Apps (MERN + FastAPI)
+- 🧩 Sharpening DSA (C++) for strong problem-solving foundations
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=udayrastogi0531&theme=tokyonight&hide_border=true"/>
 
@@ -136,7 +151,7 @@ goal:
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -146,7 +161,7 @@ goal:
 
 ---
 
-# 🏆 ACHIEVEMENT VAULT
+## 🏆 Achievement Vault
 
 <div align="center">
 
@@ -156,7 +171,7 @@ goal:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -166,22 +181,19 @@ goal:
 
 ---
 
-# 🌍 CONNECT WITH ME
+## 🌍 Connect With Me
 
 <div align="center">
 
 <a href="mailto:udayprakashrastogi2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://github.com/udayrastogi0531">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://swapskill.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
@@ -192,7 +204,7 @@ goal:
 
 <div align="center">
 
-# 🚀 BUILDING THE FUTURE WITH AI AGENTS
+## 🚀 BUILDING THE FUTURE WITH AI AGENTS
 
 ### "Transforming Ideas Into Intelligent Systems"
 
