@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=8A5CF6&center=true&vCenter=true&repeat=true&width=900&lines=AI+Engineer+%7C+GenAI+%2B+Agentic+AI;Building+RAG+Pipelines+%26+LLM+Agents;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;C%2B%2B+%2F+DSA+%E2%86%92+MERN+%E2%86%92+GenAI+%E2%86%92+Agentic+AI" />
 
-**AI Engineer building GenAI, RAG and Agentic AI systems — backed by a C++/DSA and full-stack engineering foundation.**
+**AI Engineer building GenAI, RAG and Agentic AI systems — backed by a C++/DSA and full-stack engineering foundation**
 
 <br/>
 
