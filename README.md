@@ -2,148 +2,209 @@
 
 <img src="./Banner.png" width="100%" alt="Uday Prakash Rastogi — AI Engineering"/>
 
-# Uday Prakash Rastogi
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=65&lines=Uday+Prakash+Rastogi;Applied+AI+%7C+Agentic+Systems;RAG+%7C+LangGraph+%7C+LLM+Engineering;C%2B%2B+%7C+DSA+%7C+Full-Stack+Development" alt="Typing introduction"/>
 
-### AI Engineering | Generative AI | Agentic Systems
+### Applied AI Engineer · Generative AI · Agentic Systems
 
-**I build practical AI applications using LLMs, retrieval, tools and stateful workflows — backed by software engineering fundamentals.**
+**Building AI applications that connect retrieval, reasoning, tools and dependable software workflows.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-udayrastogi0531-181717?style=for-the-badge&logo=github)](https://github.com/udayrastogi0531)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayprakashrastogi2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://swapskill.vercel.app/)
 
-<img src="https://komarev.com/ghpvc/?username=udayrastogi0531&style=flat-square&color=6C5CE7" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/udayrastogi0531?style=flat-square&color=6C5CE7" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=udayrastogi0531&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/udayrastogi0531?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
 ---
 
-## About
+## 👋 Introduction
 
-I'm a computer science engineering student focused on **Generative AI and Agentic AI**. My software development foundation includes **C++, Data Structures & Algorithms, JavaScript/TypeScript and the MERN stack**.
+I'm a Computer Science and Engineering student focused on **Applied AI, Generative AI and Agentic AI**. My foundation is in **C++, Data Structures & Algorithms, databases and full-stack development**.
 
-I enjoy understanding how AI applications work beyond a prompt: retrieval, tool execution, state, persistence, evaluation, APIs and user-facing product workflows.
+I enjoy building systems beyond a basic LLM chat interface: document ingestion, retrieval, tool execution, graph-based orchestration, persistence, evaluation, APIs and user-facing workflows.
 
-- **Current focus:** LangChain, LangGraph, RAG, LLM agents and AI application development
-- **Engineering foundation:** C++, DSA, OOP, DBMS, REST APIs and full-stack development
-- **AI tooling:** Gemini, Groq, Hugging Face, Ollama and LangSmith
-- **Career direction:** AI Engineer / Applied AI Systems
+- 🧠 **AI focus:** RAG, LLM applications, LangChain, LangGraph and agent workflows
+- ⚙️ **Engineering foundation:** C++, DSA, OOP, REST APIs, databases and MERN
+- 🔬 **Applied domains:** cybersecurity intelligence, career tools, document understanding and research workflows
+- 🎯 **Career direction:** Applied AI / AI Engineering
 
-## Technical Focus
+## 🧭 Engineering Overview
 
-| Area | Technologies and concepts |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & Agentic Systems
+LLM application patterns, prompt design, structured outputs, tool calling, graph-based workflows, checkpointing, memory and tracing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Retrieval & Knowledge Systems
+Document loading, chunking, embeddings, vector search, hybrid retrieval concepts, RAG pipelines and source-grounded responses.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Applied ML & Cybersecurity
+URL classification, scam-signal analysis, explainable risk scoring, evaluation workflows and defensive security tooling.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Software Engineering
+React, Next.js, TypeScript, Node.js, Express, FastAPI, MongoDB, SQLite, API design and C++ problem solving.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" alt="Languages"/>
+
+**AI, Data & Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,mongodb,mysql,sqlite" alt="AI and backend tools"/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" alt="Developer tools"/>
+
+</div>
+
+| Area | Tools and concepts |
 |---|---|
-| Generative AI | LLMs, prompt design, structured outputs, embeddings |
-| Agentic AI | Tool calling, agents, LangGraph, state, memory, persistence |
-| RAG | Document ingestion, chunking, vector search, retrieval, grounded generation |
-| LLM observability | LangSmith tracing, debugging and workflow inspection |
-| Backend | Node.js, Express, FastAPI, REST APIs |
-| Frontend | React, Next.js, TypeScript, HTML, CSS, Tailwind CSS |
-| Data | MongoDB, MySQL, SQLite, vector databases |
-| Languages | C++, Python, JavaScript, TypeScript, SQL |
-| Tools | Git, GitHub, Docker, Postman, VS Code, Vercel |
+| **Generative AI** | LLM APIs, embeddings, structured outputs, prompt design |
+| **Agentic AI** | LangChain, LangGraph, tool calling, stateful workflows |
+| **RAG** | Document ingestion, chunking, vector search, retrieval and grounding |
+| **Observability** | LangSmith tracing and debugging |
+| **Backend** | FastAPI, Node.js, Express, REST APIs |
+| **Frontend** | React, Next.js, TypeScript, HTML, CSS |
+| **Data** | MongoDB, MySQL, SQLite, ChromaDB |
+| **Engineering** | C++, DSA, OOP, Git, testing and API integration |
 
-## AI Engineering Concepts
+---
 
-```text
-LLMs
- ├── Prompting & structured output
- ├── Embeddings & semantic search
- ├── Retrieval-Augmented Generation (RAG)
- └── Tool calling
-      └── AI agents
-           └── LangGraph workflows
-                ├── Sequential / parallel / conditional execution
-                ├── State, memory & checkpointing
-                ├── Streaming & persistence
-                └── Tracing, debugging & evaluation
-```
+## 🚀 Selected Engineering Projects
 
-### RAG workflow
+### 🛡️ AI Digital Scam Investigator
+**Evidence-first cybersecurity investigation system**
 
-```text
-Documents → Loaders → Chunking → Embeddings → Vector Store
-          → Retriever → Context Assembly → LLM → Grounded Response
-```
+A multi-layer pipeline for investigating suspicious messages, URLs and screenshots. It combines URL analysis, linguistic signals, scam-pattern rules, entity extraction, machine learning and threat-intelligence inputs into an explainable risk report.
 
-### LangGraph areas explored
+- Deterministic risk aggregation with evidence-oriented findings
+- FastAPI backend, LangGraph orchestration and Next.js interface
+- Repository README reports **198 passing tests and 11 skipped tests**
+- Detection is decision support, not a guarantee; deployment status and integration limits are documented
 
-- Graph and state architecture
-- Sequential, parallel, conditional and iterative workflows
-- Chatbots and conversational state
-- Memory, checkpointing and persistence
-- Streaming and SQLite-backed workflows
-- LangSmith tracing and debugging
+**Stack:** Python · FastAPI · LangGraph · scikit-learn · Next.js · React · TypeScript · SQLite
 
-## Selected Work
+[Repository](https://github.com/udayrastogi0531/Ai-digital-scam-investigator) · [Architecture](https://github.com/udayrastogi0531/Ai-digital-scam-investigator/blob/main/docs/ARCHITECTURE.md) · [Evaluation](https://github.com/udayrastogi0531/Ai-digital-scam-investigator/blob/main/docs/EVALUATION.md)
 
-### SkillSync AI — AI Career Copilot
-A career-focused application combining resume analysis, job-description matching and AI-assisted interview preparation.
+### ⚡ ResumeForge AI
+**LaTeX-first resume engineering workspace**
 
-**Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Google Gemini
+A controlled resume workflow for editing LaTeX, extracting job-description requirements, analyzing ATS compatibility, generating tailored variants, reviewing source diffs and compiling PDFs.
 
-[Repository](https://github.com/udayrastogi0531/AI-Career-Copilot-SkillSync-AI) · [Live application](https://ai-career-copilot-skill-sync-ai.vercel.app)
+- Keeps the original resume intact while creating tailored versions
+- Deterministic ATS analysis and validation against unsupported claims
+- Job-specific cover-letter workflow
 
-### Hangman Game — C++
-A terminal-based word game using core data structures.
+**Stack:** Next.js · TypeScript · FastAPI · Python · Groq
 
-- Trie-based word and hint lookup
-- Max-heap leaderboard
+[Repository](https://github.com/udayrastogi0531/ResumeForge-AI)
+
+### 📊 Trade-Saarthi
+**Risk-aware quantitative trading research platform**
+
+A research-oriented platform for Indian equities with market scanning, strategy analysis, portfolio risk views, validation workflows and execution-safety controls.
+
+- Walk-forward validation and overfitting/decay analysis
+- Monte Carlo risk and drawdown analysis
+- Portfolio analytics and execution simulation
+- Safety-first operating modes documented in the repository
+
+**Stack:** Python · FastAPI · Next.js · Streamlit · PostgreSQL · Redis
+
+[Repository](https://github.com/udayrastogi0531/Trade-Saarthi)
+
+### 🌐 WebLens
+**Machine-learning powered malicious URL detection**
+
+A defensive URL-analysis system with a FastAPI backend, machine-learning classifier and browser extension.
+
+- Random Forest model using 48 URL-derived features
+- Four classes: benign, defacement, malware and phishing
+- Repository reports 641,152 URLs in the remediated dataset
+- Reported unseen-domain evaluation: 91.68% accuracy and 89.65% macro F1
+
+**Stack:** Python · FastAPI · scikit-learn · Pandas · NumPy · TypeScript
+
+[Repository](https://github.com/udayrastogi0531/WebLens)
+
+### 🤖 SkillSync AI
+**AI career copilot**
+
+A MERN application for resume analysis, job-description matching and AI-assisted interview preparation. The repository includes an implementation report and distinguishes local verification from cloud deployment status.
+
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB · Gemini
+
+[Repository](https://github.com/udayrastogi0531/AI-Career-Copilot-SkillSync-AI)
+
+### 🕸️ Agentic AI with LangGraph
+**Workflow patterns and orchestration learning repository**
+
+A hands-on reference covering sequential, parallel, conditional and iterative workflows, conversational state, persistence, streaming and observability.
+
+**Stack:** Python · LangGraph · LangChain · Streamlit · LangSmith
+
+[Repository](https://github.com/udayrastogi0531/Agentic_AI_using_LangGraph-Workflows)
+
+### 🔤 Hangman — C++
+A terminal game applying a **Trie** for word/hint lookup and a **max-heap** for leaderboard ranking.
 
 [Repository](https://github.com/udayrastogi0531/Hangman-Game)
 
-### Other development work
+---
 
-- [ResumeForge AI](https://github.com/udayrastogi0531/ResumeForge-AI)
-- [WebLens](https://github.com/udayrastogi0531/WebLens)
-- [To-Do List DApp](https://github.com/udayrastogi0531/To-Do_List_DApp)
-- [WhatsApp UI Clone](https://github.com/udayrastogi0531/Whatsapp-UI-Clone)
+## 🔬 Research & Learning
 
-*Project descriptions and implementation details will be expanded as each repository is reviewed and documented.*
+- Published research work related to a **Chatbot Legal Advisor** project.
+- Exploring practical RAG design, retrieval quality, agent orchestration and LLM evaluation.
+- Strengthening software engineering fundamentals: DSA, DBMS, operating systems, networking, testing and backend design.
 
-## Learning & Engineering Priorities
-
-- Strengthen Python for AI engineering
-- Build reliable RAG pipelines and retrieval evaluation
-- Develop stateful, tool-using LangGraph workflows
-- Improve backend engineering, API design and database fundamentals
-- Learn testing, Docker, CI/CD and deployment practices
-- Deepen DSA, operating systems, DBMS and computer networks
-- Contribute to open-source projects and technical research
-
-## 3D Contribution Profile
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/udayrastogi0531/udayrastogi0531/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution profile"/>
-
-</div>
-
-> The contribution visualization is generated automatically by GitHub Actions. It will appear after the workflow completes successfully.
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=udayrastogi0531&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=udayrastogi0531&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<img width="98%" src="https://raw.githubusercontent.com/udayrastogi0531/udayrastogi0531/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
 
 </div>
 
-## Connect
+## 📫 Connect
 
-- **LinkedIn:** [uday-prakash-rastogi](https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/)
+- **LinkedIn:** [Uday Prakash Rastogi](https://www.linkedin.com/in/uday-prakash-rastogi-33b55a2a2/)
 - **Email:** [udayprakashrastogi2005@gmail.com](mailto:udayprakashrastogi2005@gmail.com)
-- **Portfolio:** [swapskill.vercel.app](https://swapskill.vercel.app/)
+- **GitHub:** [@udayrastogi0531](https://github.com/udayrastogi0531)
 
 ---
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Engineering with evidence.*
+*Build carefully. Measure honestly. Keep learning.*
 
 </div>
