@@ -113,6 +113,16 @@ A terminal-based word game using core data structures.
 - Deepen DSA, operating systems, DBMS and computer networks
 - Contribute to open-source projects and technical research
 
+## 3D Contribution Profile
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/udayrastogi0531/udayrastogi0531/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution profile"/>
+
+</div>
+
+> The contribution visualization is generated automatically by GitHub Actions. It will appear after the workflow completes successfully.
+
 ## GitHub Activity
 
 <div align="center">
